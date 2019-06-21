@@ -1,0 +1,82 @@
+{
+  "Chinese": {
+    "Hello": "歡迎使用SQL新舊比較器。",
+    "Exit": "離開。",
+    "ReLoad": "重新Load Json。",
+    "Clear": "清理畫面。",
+
+    "DBName": "資料庫名稱：",
+    "LinkOK": "連線完成。",
+
+    "Result": "結果",
+    "Finish": "結束",
+
+    "ReSDB": "重選Database",
+    "ReLinkDB": "Database重新連線 ",
+
+    "SelectFunc": "請輸入使用功能：",
+    "SelectFile": "選擇檔案：",
+    "SelectDB": "選擇資料庫 ",
+
+    "SelectPA": "選擇檔案 左邊部分：",
+    "SelectPB": "選擇檔案 右邊部分：",
+
+    "Select0": "高速引入。(直接讀取db資料夾的DataA跟DataB。)",
+    "Select1": "引入檔案（同步）。",
+    "Select2": "引入檔案（不同）。",
+    "Select3": "手動輸入（同步）。",
+    "Select4": "手動輸入（不同）。",
+
+    "PartA": "左邊部分",
+    "PartB": "右邊部分",
+
+    "NoConfig": "設定檔不存在。",
+    "ConfigError": "設定檔錯誤。",
+    "ErrorFrom": "錯誤訊息：",
+    "NotSQLData": "無SQL檔案！",
+    "InputError": "輸入錯誤！",
+    "SelectError": "選擇錯誤！",
+
+    "NotHasError": "目前沒有DB連線，請選擇連線。"
+  },
+  "English": {
+    "Hello": "Welcome to SQL-Data-Comparison.",
+    "Exit": "Exit.",
+    "ReLoad": "Reload Json.",
+    "Clear": "Clean.",
+
+    "DBName": "Databse Name：",
+    "LinkOK": "Connection Completed.",
+
+    "Result": "Result",
+    "Finish": "Finish",
+
+    "ReSDB": "Reselect Database",
+    "ReLinkDB": "Database Reconnect. ",
+
+    "SelectFunc": "Please Enter Function：",
+    "SelectFile": "Select File：",
+    "SelectDB": "Select Database ",
+
+    "SelectPA": "Select File Left Part：",
+    "SelectPB": "Select File Left Part：",
+
+    "Select0": "High Speed Start. (Directly read DataA and DataB of db folder.)",
+    "Select1": "Introduction of File (Synchronization).",
+    "Select2": "Introduction of Files (Different).",
+    "Select3": "Manual Input (Synchronous).",
+    "Select4": "Manual Input (Different).",
+
+    "PartA": "Left Part",
+    "PartB": "Right Part",
+
+    "NoConfig": "The Config Not Exist.",
+    "ConfigError": "The Config Error.",
+    "ErrorFrom": "Error Message：",
+    "NotSQLData": "No SQL File！",
+    "InputError": "Input Error！",
+    "SelectError": "Select Error！",
+
+    "NotHasError": "There is currently no DB connection, please select the connection."
+  }
+}

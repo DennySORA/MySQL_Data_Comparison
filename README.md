@@ -1,4 +1,4 @@
-# SQL-Data-Comparison
+# MySQL-Data-Comparison
 
 This is SQL Search Data Comparison program.
 
